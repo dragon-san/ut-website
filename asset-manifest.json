@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ut-website/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ut-website/static/js/main.825e9715.chunk.js",
+    "main.js.map": "/ut-website/static/js/main.825e9715.chunk.js.map",
+    "runtime-main.js": "/ut-website/static/js/runtime-main.82e5e1e6.js",
+    "runtime-main.js.map": "/ut-website/static/js/runtime-main.82e5e1e6.js.map",
+    "static/js/2.488c8d9c.chunk.js": "/ut-website/static/js/2.488c8d9c.chunk.js",
+    "static/js/2.488c8d9c.chunk.js.map": "/ut-website/static/js/2.488c8d9c.chunk.js.map",
+    "static/js/3.7cbddb31.chunk.js": "/ut-website/static/js/3.7cbddb31.chunk.js",
+    "static/js/3.7cbddb31.chunk.js.map": "/ut-website/static/js/3.7cbddb31.chunk.js.map",
+    "index.html": "/ut-website/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ut-website/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.488c8d9c.chunk.js.LICENSE.txt": "/ut-website/static/js/2.488c8d9c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ut-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82e5e1e6.js",
+    "static/js/2.488c8d9c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.825e9715.chunk.js"
+  ]
+}
