@@ -1,25 +1,27 @@
-import logo from './logo.svg';
+import React, { Component } from "react";
+// import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
+// import Products from './Components/products';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React Today!
-        </a>
-      </header>
-    </div>
-  );
+// import Home from './Components/home';
+class App {
+  render() {
+    return (
+
+      <div className="App">
+        {/* <Router>
+<Switch>
+        <Route path='/' exact component={Home} />
+        <Route path='/products' exact component={Products}/>
+        
+        
+        </Switch>
+
+</Router> */}
+<h1> HELLO WORLD</h1>
+      </div>
+    );
+  }
 }
 
 export default App;
