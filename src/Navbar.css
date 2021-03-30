@@ -1,0 +1,87 @@
+.nav{
+    /* background: linear-gradient(to top, #1cd8d2, #93edc7); */
+    /* background-color: black; */
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    /* background: linear-gradient(to left, #00467f, #a5cc82); */
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: auto;
+}
+.navbar-logo{
+    color:white;
+    justify-self:center;
+    margin-left: 10px;
+    position:absolute;
+    top:20;
+    right:70;
+
+
+    cursor: pointer;
+}
+
+.nav .logo-ut{
+    justify-self:center;
+    align-items: center;
+    margin-top: auto;
+    
+
+}
+
+
+.nav > p {
+    margin-top: 0px;
+    margin-left: 0px;
+    color:whitesmoke;
+    font-size: 4rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 550;
+    
+  }
+
+
+  .fa-route{
+      margin-top: -15px;
+  }
+
+
+.fa-route{
+    color:whitesmoke;
+
+}
+/* .fa-mountain{
+    color:whitesmoke
+} */
+
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    .fa-route{
+        margin-top: -30px;
+    }
+  
+}
+
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+    .fa-route{
+        margin-top: -30px;
+    }
+}
+
+@media(max-width:998px){
+    .fa-route{
+        margin-top: -35px;
+    }
+  }
+  
+  @media(max-width:768px){
+    .fa-route{
+        margin-top: -15px;
+    }
+  }
