@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/ut-website/static/css/main.37771ca9.chunk.css",
-    "main.js": "/ut-website/static/js/main.c2444220.chunk.js",
-    "main.js.map": "/ut-website/static/js/main.c2444220.chunk.js.map",
-    "runtime-main.js": "/ut-website/static/js/runtime-main.c121a10c.js",
-    "runtime-main.js.map": "/ut-website/static/js/runtime-main.c121a10c.js.map",
-    "static/js/2.3f894991.chunk.js": "/ut-website/static/js/2.3f894991.chunk.js",
-    "static/js/2.3f894991.chunk.js.map": "/ut-website/static/js/2.3f894991.chunk.js.map",
-    "static/js/3.941e517e.chunk.js": "/ut-website/static/js/3.941e517e.chunk.js",
-    "static/js/3.941e517e.chunk.js.map": "/ut-website/static/js/3.941e517e.chunk.js.map",
+    "main.css": "/ut-website/static/css/main.bda672f6.chunk.css",
+    "main.js": "/ut-website/static/js/main.f67ff98e.chunk.js",
+    "main.js.map": "/ut-website/static/js/main.f67ff98e.chunk.js.map",
+    "runtime-main.js": "/ut-website/static/js/runtime-main.e3c83f37.js",
+    "runtime-main.js.map": "/ut-website/static/js/runtime-main.e3c83f37.js.map",
+    "static/js/2.9dcaf1c7.chunk.js": "/ut-website/static/js/2.9dcaf1c7.chunk.js",
+    "static/js/2.9dcaf1c7.chunk.js.map": "/ut-website/static/js/2.9dcaf1c7.chunk.js.map",
+    "static/js/3.727fdafd.chunk.js": "/ut-website/static/js/3.727fdafd.chunk.js",
+    "static/js/3.727fdafd.chunk.js.map": "/ut-website/static/js/3.727fdafd.chunk.js.map",
     "index.html": "/ut-website/index.html",
-    "static/css/main.37771ca9.chunk.css.map": "/ut-website/static/css/main.37771ca9.chunk.css.map",
-    "static/js/2.3f894991.chunk.js.LICENSE.txt": "/ut-website/static/js/2.3f894991.chunk.js.LICENSE.txt"
+    "static/css/main.bda672f6.chunk.css.map": "/ut-website/static/css/main.bda672f6.chunk.css.map",
+    "static/js/2.9dcaf1c7.chunk.js.LICENSE.txt": "/ut-website/static/js/2.9dcaf1c7.chunk.js.LICENSE.txt",
+    "static/media/home.9418de1b.mp4": "/ut-website/static/media/home.9418de1b.mp4",
+    "static/media/nainital-night.6873b065.jpg": "/ut-website/static/media/nainital-night.6873b065.jpg",
+    "static/media/ntl_monsoon.48cba2ee.jpg": "/ut-website/static/media/ntl_monsoon.48cba2ee.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c121a10c.js",
-    "static/js/2.3f894991.chunk.js",
-    "static/css/main.37771ca9.chunk.css",
-    "static/js/main.c2444220.chunk.js"
+    "static/js/runtime-main.e3c83f37.js",
+    "static/js/2.9dcaf1c7.chunk.js",
+    "static/css/main.bda672f6.chunk.css",
+    "static/js/main.f67ff98e.chunk.js"
   ]
 }
