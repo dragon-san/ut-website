@@ -235,6 +235,7 @@ Paragliding</p>
    Or Call Us on
    <br></br>
    +91 9837691399
+   <br></br>
    +91 9411791399
 
 <br></br>
