@@ -5,13 +5,23 @@ import './App.css';
 
 
 import Navbar from "./Navbar";
+import Landing from "./landing";
+import Aboutus from "./aboutus";
+import Services from "./services";
+
+
+
 
 function App(){
 return(
   <div className="App">
   
 
-<Navbar/>
+ <Navbar/> 
+
+<Landing/> 
+<Aboutus/>
+<Services/>
 
     </div>
     
