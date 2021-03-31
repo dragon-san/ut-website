@@ -104,3 +104,39 @@ and (max-device-width: 1024px) {
   }
 
 }
+
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) {
+   .aboutus-container {
+      display: block;
+      position: relative;
+     margin-top:-450px;
+     margin-left:-350px;
+  
+   }
+  
+   .text-block {
+     position:absolute;
+     top:200px;
+     left:350px;
+     background-color: rgba(243, 236, 236, 0.151);
+     color:yellowgreen;
+     padding-left: 20px;
+     padding-right: 20px;
+     font-size:2px;
+     font-family:'Raleway', sans-serif;
+   }
+   .text-block > h4{
+  margin-left:200px;
+   }
+  .text-block > p{
+     margin-left:0px;
+     color: white;
+     font-size:25px;
+     font-family:'Raleway', sans-serif;
+  
+  }
+
+
+}

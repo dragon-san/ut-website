@@ -95,7 +95,42 @@ and (max-device-width: 1024px) {
   
   .text-block1 > p{
    color:whitesmoke;
-   font-size:30px;
+   font-size:25px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+}
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) {
+  .service-container {
+    display: block;
+    position: relative;
+   margin-top:-10px;
+   margin-left:-200px;
+  
+  }
+  
+  .text-block1 {
+   position: absolute;
+   top: 200px;
+   left:0px;
+   background-color: rgba(243, 236, 236, 0.123);
+   color:yellowgreen;
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:50px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block1 > h4{
+  margin-left:200px;
+  }
+  
+  .text-block1 > p{
+   color:whitesmoke;
+   font-size:20px;
+   margin-left: 200px;
    font-family:'Raleway', sans-serif;
   
   }

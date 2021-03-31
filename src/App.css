@@ -79,3 +79,12 @@ video {
     font-size:65%;
   }
 }
+
+
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) {
+  html{
+    font-size:40%;
+  }
+}

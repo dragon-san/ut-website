@@ -8,7 +8,7 @@ import Navbar from "./Navbar";
 import Landing from "./landing";
 import Aboutus from "./aboutus";
 import Services from "./services";
-
+import Products from "./products";
 
 
 
@@ -22,6 +22,7 @@ return(
 <Landing/> 
 <Aboutus/>
 <Services/>
+<Products/>
 
     </div>
     
